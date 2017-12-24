@@ -1,5 +1,5 @@
 module.exports = {
-    'GOOGLE_CLIENT_ID': '14ulo97788ilpaassp80q7g3qe4d8dak.apps.googleusercontent.com',
-    'GOOGLE_CLIENT_SECRET': 'KxoPp4o1ILr2aVZmWwYKAFcb',
+    'GOOGLE_CLIENT_ID': '754878952656-k8os7f0vsn7fim29jrlpah4bjpk12do6.apps.googleusercontent.com',
+    'GOOGLE_CLIENT_SECRET': 'z3Byc1gsSfko6Au6agJ4WQdR',
     'CALLBACK_URL': 'http://localhost:3000/auth/google/callback'
 };
